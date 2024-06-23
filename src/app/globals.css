@@ -1,0 +1,14 @@
+.page {
+	padding: 10px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.title {
+	font-size: 45px;
+	margin-bottom: 25px;
+	font-weight: 300;
+}
