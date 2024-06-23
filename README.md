@@ -4,13 +4,13 @@ This is a simple yet comprehensive authentication system. It's built using Next.
 
 ## 🚀 Index
 
-📌 [Demo](#demo)
-📌 [Features](#features)
-📌 [Technologies Used](#technologies-used)
-📌 [Getting Started](#getting-started)
-📌 [How to Use](#how-to-use)
-📌 [Contributing](#contributing)
-📌 [License](#license)
+- 📌 [Demo](#demo)
+- 📌 [Features](#features)
+- 📌 [Technologies Used](#technologies-used)
+- 📌 [Getting Started](#getting-started)
+- 📌 [How to Use](#how-to-use)
+- 📌 [Contributing](#contributing)
+- 📌 [License](#license)
 
 ## 🚀 Demo
 
@@ -22,11 +22,13 @@ This is a simple yet comprehensive authentication system. It's built using Next.
 
 ## 🚀 Technologies Used
 
+<div>
 <img src="/assets/images/icons/react.svg" alt="react.js" width="75" height="75" style="margin-right: 10px">
 <img src="/assets/images/icons/next.js.svg" alt="next.js" width="75" height="75" style="margin-right: 10px">
 <img src="/assets/images/icons/typescript.svg" alt="typescript" width="75" height="75" style="margin-right: 10px">
 <img src="/assets/images/icons/css.svg" alt="css" width="75" height="75" style="margin-right: 10px">
 <img src="/assets/images/icons/scss.svg" alt="scss"width="75" height="75" style="margin-right: 10px">
+</div>
 
 - **React.js**: A JavaScript library for building user interfaces.
 - **Next.js**: A React framework for server-side rendering and routing.
